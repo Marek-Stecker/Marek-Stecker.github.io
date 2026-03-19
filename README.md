@@ -1,26 +1,25 @@
-# 🎮 Unity Developer Portfolio
+# Unity Developer Portfolio
 
-Hi, I'm **Marek Stecker** 👋  
-Unity Developer focused on building games and interactive experiences.
-
----
-
-## 🚀 About Me
-I specialize in:
-- 🎮 Gameplay programming
-- ⚙️ Systems & mechanics
-- 🚀 Optimization & performance
-
-I enjoy creating smooth, fun, and scalable game systems using **Unity & C#**.
+Hi, I'm **Marek Stecker**
+Aspiring Unity Developer focused on crafting innovative games.
 
 ---
 
-## 🕹️ Projects
+## Experience
+- Unity Engine - 7 years
+- C# Programming - 3 years
+- Others - Arduino programming, video editing, frontend+backend web development, HLSL shaders
 
-### 🎯 Project One
-Short description of your project.
-- 🔧 Built with: Unity, C#
-- 🔗 [View Project](#)
+---
+
+## Projects
+
+### Training App for Climbers
+An app that connects to a climbing wall with LEDs and allows you to control it - add routes, edit them and create a training program. Uses BLE to connect to ESP32, that controls the LEDs on the wall based on input from the app.
+- Available for: Android, iOS
+- Built with: Unity, C#, Arduino IDE
+- [Google Play](https://play.google.com/store/apps/details?id=com.Matrettr.LEDWall&hl)
+- [App Store](https://apps.apple.com/us/app/mywaywall/id6444047230)
 
 ### 🚗 Project Two
 Short description of your project.
@@ -34,16 +33,6 @@ Short description of your project.
 
 ---
 
-## 🛠️ Skills
-- Unity Engine
-- C# Programming
-- Shader Graph
-- URP / HDRP
-- Game Design
-- Git & Version Control
-
----
-
 ## 📸 Screenshots
 *(Add images like this)*
 ```
@@ -51,11 +40,3 @@ Short description of your project.
 ```
 
 ---
-
-## 📬 Contact
-- GitHub: https://github.com/yourusername
-- Email: your@email.com
-
----
-
-⭐ *Feel free to check out my projects and connect!*
