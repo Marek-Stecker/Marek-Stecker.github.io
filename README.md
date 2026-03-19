@@ -21,10 +21,14 @@ A new way how climbers can train with unlimited possibilities. This app connects
 - [Google Play](https://play.google.com/store/apps/details?id=com.Matrettr.LEDWall&hl)
 - [App Store](https://apps.apple.com/us/app/mywaywall/id6444047230)
 
-## Horror Game - Light Bearer
+### Horror Game - Light Bearer
 A 2d horror game with unique light mechanics to be released on Steam. You are the Light bearer in an abondoned lighthouse and need to use your magical tool to transfer light into light sources. Keep the environment lit, to defend yourself from the shadowy creatures.
 - [Steam](https://store.steampowered.com/app/3959360/Light_Bearer/)
-- 
+
+### Web Quiz - Will It Compile?
+A simple web quiz made with HTML, CSS and JS. Examine the code snippet and figure out if it will compile or not. Compete in the daily quiz against your friends and compete who can place higher in the leaderboard!
+- [Quiz](https://steelblue-spider-262315.hostingersite.com/)
+
 ---
 
 ## Tutoring
@@ -44,5 +48,15 @@ For the past few years I have been individually tutoring Unity and C# programmin
 ---
 
 ## Game Jams
+
+### Do you WANNA Jam 2023
+- Theme: Freeze
+- Idea: You are an ice mage in hell and need to freeze it. Collect better staffs, abilities and defeat enemies. 
+- [itch.io](https://freedom-coding.itch.io/keep-it-cool)
+
+### DAGDC's Winter 2026 Game Jam
+- Theme: XOXO
+- Idea: Play tic-tac-toe on a 4x4 grid, and use abilities that can shift it. Shift columns, rows, switch symbols and use other abilities.
+- [itch.io](https://freedom-coding.itch.io/tic-tac-shift)
 
 ---
