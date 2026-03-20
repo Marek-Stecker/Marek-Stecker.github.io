@@ -28,6 +28,7 @@ A 2d horror game with unique light mechanics to be released on Steam. You are th
 ### Web Quiz - Will It Compile?
 A simple web quiz made with HTML, CSS and JS. Examine the code snippet and figure out if it will compile or not. Compete in the daily quiz against your friends and compete who can place higher in the leaderboard!
 - [Quiz](https://steelblue-spider-262315.hostingersite.com/)
+- [![Watch Gameplay]()](https://youtu.be/WzyughsNF2k)
 
 ---
 
@@ -53,6 +54,7 @@ For the past few years I have been individually tutoring Unity and C# programmin
 - Theme: Freeze
 - Idea: You are an ice mage in hell and need to freeze it. Collect better staffs, abilities and defeat enemies. 
 - [itch.io](https://freedom-coding.itch.io/keep-it-cool)
+- <iframe height="167" frameborder="0" src="https://itch.io/embed/2222368" width="552"><a href="https://freedom-coding.itch.io/keep-it-cool">Keep it cool by Freedom Coding</a></iframe>
 
 ### DAGDC's Winter 2026 Game Jam
 - Theme: XOXO
