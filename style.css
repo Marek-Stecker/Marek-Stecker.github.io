@@ -1,6 +1,45 @@
-body { font-family: Arial, sans-serif; margin: 0; background:#0f172a; color:#e2e8f0; }
-section { max-width: 900px; margin: auto; padding: 2rem; }
-h1, h2, h3 { color: #38bdf8; }
-.card { background:#1e293b; padding:1.5rem; border-radius:12px; margin-bottom:1.5rem; }
-a { color:#38bdf8; text-decoration:none; }
-iframe { max-width:100%; border-radius:10px; margin-top:10px; }
+body 
+{ 
+  font-family: Arial, 
+  sans-serif; margin: 0; 
+  background:#0f172a; 
+  color:#e2e8f0; 
+}
+
+section 
+{ 
+  max-width: 900px; 
+  margin: auto; 
+  padding: 2rem; 
+}
+
+h1, h2, h3 
+{ 
+  color: #38bdf8; 
+}
+
+p
+{
+  text-align: justify;
+}
+
+.card 
+{ 
+  background:#1e293b; 
+  padding:1.5rem; 
+  border-radius:12px; 
+  margin-bottom:1.5rem; 
+}
+
+a 
+{ 
+  color:#38bdf8; 
+  text-decoration:none; 
+}
+
+iframe 
+{ 
+  max-width:100%; 
+  border-radius:10px; 
+  margin-top:10px; 
+}
